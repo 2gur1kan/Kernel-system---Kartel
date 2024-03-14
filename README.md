@@ -3,6 +3,8 @@ A kernel project made with Emu8086
 
 The opening logo with a gun icon appears on the loader screen.
 
+# The commands included in the kernel are:
+
 help: prints the list of commands available in the kernel.
 
 cls: Clears text on the screen
